@@ -12,8 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Yassine Ben Moussa**, currently pursuing a **Bachelor’s degree in Computer Science and Multimedia** at **SESAME University**. 🎓  
-I'm passionate about **technology**, **problem-solving**, and building cool things with code.
+Hello! I'm **Yassine Ben Moussa**, Computer Science and Multimedia Bachelor’s student with a strong interest in Artificial Intelligence and software development. Certified in AI and Python, with hands-on experience in programming, problem solving, and technical support. Actively seeking an internship or junior role where I can apply AI and programming skills in real-world projects..
 
 ---
 
