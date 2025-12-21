@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="assets/IT-Student.png"
+  <img src="assets/IT Student.png"
        alt="Yassine Ben Moussa – Cover"
        width="100%" />
 </p>
