@@ -18,9 +18,8 @@ Hello! I'm **Yassine Ben Moussa**, Computer Science and Multimedia Bachelor’s 
 
 ### 📜 Certifications
 
-- 📘 **CCNA: Introduction to Networks** – Cisco Networking Academy  
-- 🐍 **Python Essentials 1** – Cisco & OpenEDG  
-- 🔧 **C Essentials 1** – Cisco & OpenEDG
+<!-- CREDLY_BADGES_START -->
+<!-- CREDLY_BADGES_END -->
 
 ---
 
