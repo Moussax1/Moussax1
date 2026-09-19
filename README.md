@@ -89,19 +89,23 @@ Hello! I'm **Yassine Ben Moussa**, Computer Science and Multimedia Bachelor’s 
 
 <p align="center">
   <a href="https://ybm-portfolio.vercel.app/" target="_blank">
-    <img src="https://ybm-portfolio.vercel.app/favicon.svg" style="border-radius: 8px; width: 40px; height: 40px; margin: 4px;" />
+    <img src="https://ybm-portfolio.vercel.app/favicon.svg" width="48" height="48" alt="Website" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohamed-yassine-ben-moussa-4061b8320/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="background: #0077B5; border-radius: 8px; padding: 8px; width: 24px; height: 24px; margin: 4px;" />
+    <img src="assets/linkedin.svg" width="48" height="48" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Moussax1" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/white" style="background: #181717; border-radius: 8px; padding: 8px; width: 24px; height: 24px; margin: 4px;" />
+    <img src="assets/github.svg" width="48" height="48" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/yassine__benmoussa/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/white" style="background: #E4405F; border-radius: 8px; padding: 8px; width: 24px; height: 24px; margin: 4px;" />
+    <img src="assets/instagram.svg" width="48" height="48" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:yassinebenmoussax@gmail.com" target="_blank">
-    <img src="assets/envelope.svg" style="background: #D14836; border-radius: 8px; padding: 8px; width: 24px; height: 24px; margin: 4px;" />
+    <img src="assets/envelope.svg" width="48" height="48" alt="Email" />
   </a>
 </p>
 
