@@ -88,6 +88,9 @@ Hello! I'm **Yassine Ben Moussa**, Computer Science and Multimedia Bachelor’s 
 ### Connect with Me
 
 <p align="center">
+  <a href="https://ybm-portfolio.vercel.app/" target="_blank">
+    <img src="https://ybm-portfolio.vercel.app/favicon.svg" style="border-radius: 8px; width: 40px; height: 40px; margin: 4px;" />
+  </a>
   <a href="https://www.linkedin.com/in/mohamed-yassine-ben-moussa-4061b8320/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="background: #0077B5; border-radius: 8px; padding: 8px; width: 24px; height: 24px; margin: 4px;" />
   </a>
